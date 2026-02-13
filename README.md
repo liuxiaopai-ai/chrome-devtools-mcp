@@ -11,7 +11,7 @@ Chrome DevTools for reliable automation, in-depth debugging, and performance ana
 
 ## Examples
 
-- Minimal Node client (spawns the server with `npx` and sends an MCP `initialize` request): [`examples/minimal-node-client.mjs`](./examples/minimal-node-client.mjs)
+- Minimal Node client using the official MCP TypeScript SDK (`Client` + `StdioClientTransport`): [`examples/minimal-node-client.mjs`](./examples/minimal-node-client.mjs)
 
 ## Key features
 
